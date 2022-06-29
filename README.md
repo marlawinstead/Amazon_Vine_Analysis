@@ -7,6 +7,7 @@ The purpose of this project is to analyze the Amazon Vine Program and determine 
 Vine Reviews vs. Non-vine reviews
 
 Number of reviews:
+647 vine reviews vs 74113 non-vine reviews
 
 <img width="328" alt="paid reviews" src="https://user-images.githubusercontent.com/100978922/176339724-a561890c-3b7f-49c1-9d04-161cbdb3b47a.png">
 
