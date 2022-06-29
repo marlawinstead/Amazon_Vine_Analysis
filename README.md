@@ -34,3 +34,4 @@ There is 35.39% of 5 star vine reviews and 58.31% of 5 star non-vine reviews.
 
 ## Summary
 
+Of every vine member review, 35.39% of them are 5 stars for the category beauty. Of every non-vine member review, 58.13% are 5 stars for the category beauty. 
