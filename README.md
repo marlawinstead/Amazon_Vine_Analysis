@@ -7,7 +7,8 @@ The purpose of this project is to analyze the Amazon Vine Program and determine 
 Vine Reviews vs. Non-vine reviews
 
 Number of reviews:
-647 vine reviews vs 74113 non-vine reviews
+
+There are 647 vine reviews and 74113 non-vine reviews.
 
 <img width="328" alt="paid reviews" src="https://user-images.githubusercontent.com/100978922/176339724-a561890c-3b7f-49c1-9d04-161cbdb3b47a.png">
 
@@ -16,6 +17,8 @@ Number of reviews:
 
 Number of 5 star reviews:
 
+There are 229 5 star vine reviews and 43217 5 star non-vine reviews.
+
 <img width="640" alt="paid 5 star" src="https://user-images.githubusercontent.com/100978922/176340058-db782dbc-e736-4d64-8e5d-2fd9f68042e9.png">
 
 <img width="683" alt="unpaid 5 star" src="https://user-images.githubusercontent.com/100978922/176340073-86a78416-4aaa-40cd-847a-8b7a927fb9fc.png">
@@ -23,8 +26,11 @@ Number of 5 star reviews:
 
 Percentage of 5 star reviews:
 
+There is 35.39% of 5 star vine reviews and 58.31% of 5 star non-vine reviews.
+
 <img width="664" alt="paid percentage" src="https://user-images.githubusercontent.com/100978922/176340102-7b6938ce-c54a-4386-87bd-5132d77427df.png">
 
 <img width="721" alt="unpaid percentage" src="https://user-images.githubusercontent.com/100978922/176340106-69240491-16a7-43d5-b0b3-4b5760285f5f.png">
 
 ## Summary
+
